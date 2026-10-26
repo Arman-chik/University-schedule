@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E4FA3</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#D8E2FF</color>
+    <color name="on_primary_container">#001A43</color>
+
+    <color name="secondary">#00668A</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#C3E8FF</color>
+    <color name="on_secondary_container">#001E2C</color>
+
+    <color name="background">#F7F9FF</color>
+    <color name="on_background">#191C20</color>
+
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#191C20</color>
+    <color name="surface_variant">#E1E2EC</color>
+    <color name="on_surface_variant">#44474F</color>
+
+    <!-- Фирменный градиент шапки, одинаковый в обеих темах -->
+    <color name="header_gradient_start">#1E4FA3</color>
+    <color name="header_gradient_end">#4FC3F7</color>
+</resources>
